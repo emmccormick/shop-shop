@@ -6,7 +6,7 @@ deployed link: https://hidden-peak-86786.herokuapp.com/
 An e-commerce platform refactored to use Redux. 
 
 ## Visual
-![] (/client/public/images/demo.gif)
+![] (./client/public/images/demo.gif)
 
 
 
